@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/react-ant/static/css/main.0eee9a63.chunk.css",
+    "main.js": "/react-ant/static/js/main.314fb40f.chunk.js",
+    "main.js.map": "/react-ant/static/js/main.314fb40f.chunk.js.map",
+    "runtime~main.js": "/react-ant/static/js/runtime~main.b9774cc2.js",
+    "runtime~main.js.map": "/react-ant/static/js/runtime~main.b9774cc2.js.map",
+    "static/css/2.cb759328.chunk.css": "/react-ant/static/css/2.cb759328.chunk.css",
+    "static/js/2.e91a4358.chunk.js": "/react-ant/static/js/2.e91a4358.chunk.js",
+    "static/js/2.e91a4358.chunk.js.map": "/react-ant/static/js/2.e91a4358.chunk.js.map",
+    "index.html": "/react-ant/index.html",
+    "precache-manifest.fefe47551853ab3cb6541716cf218a63.js": "/react-ant/precache-manifest.fefe47551853ab3cb6541716cf218a63.js",
+    "service-worker.js": "/react-ant/service-worker.js",
+    "static/css/2.cb759328.chunk.css.map": "/react-ant/static/css/2.cb759328.chunk.css.map",
+    "static/css/main.0eee9a63.chunk.css.map": "/react-ant/static/css/main.0eee9a63.chunk.css.map",
+    "static/media/Screenshot from 2018-12-18 11-55-13.png": "/react-ant/static/media/Screenshot from 2018-12-18 11-55-13.b9deea1e.png",
+    "static/media/background.jpeg": "/react-ant/static/media/background.587c9317.jpeg"
+  }
+}
