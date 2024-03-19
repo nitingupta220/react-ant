@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://nitingupta220.github.io/react-ant",
   "dependencies": {
-    "antd": "4.0.1",
+    "antd": "4.24.16",
     "gh-pages": "2.2.0",
     "react": "16.13.0",
     "react-dom": "16.13.0",
