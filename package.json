@@ -5,7 +5,7 @@
   "homepage": "https://nitingupta220.github.io/react-ant",
   "dependencies": {
     "antd": "4.0.1",
-    "gh-pages": "2.2.0",
+    "gh-pages": "5.0.0",
     "react": "16.13.0",
     "react-dom": "16.13.0",
     "react-highlight-words": "0.16.0",
